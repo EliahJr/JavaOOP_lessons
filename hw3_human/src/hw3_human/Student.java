@@ -9,7 +9,7 @@ public class Student extends Human {
 	/** id of group // link */
 	private Group gid;
 	//ИД студента 
-	private long sid;
+	private long sid; // id student in group; it sets when student will be added
 	/** средний балл */
 	private float avgMark;
 	private boolean hasgrant;
